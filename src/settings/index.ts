@@ -1,0 +1,9 @@
+export const boardAngle = 30;
+export const boardWidth = 100;
+export const energyDifferenceLimit = 200;
+export const initGameStatus = true;
+export const maxFallingInterval = 10;
+export const maxWeight = 10;
+export const minFallingInterval = 1;
+export const minWeight = 1;
+export const scaleRatio = 0.1;
